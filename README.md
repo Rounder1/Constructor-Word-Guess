@@ -13,3 +13,7 @@ Win Game:
 ![win game](https://user-images.githubusercontent.com/33045010/39387766-91a337a2-4a49-11e8-8323-20afbaf04c77.PNG)
 
 Loose Game:
+![loose game](https://user-images.githubusercontent.com/33045010/39387784-ae9ba916-4a49-11e8-912d-e3f04e0159f7.PNG)
+
+End Games:
+
