@@ -16,4 +16,4 @@ Loose Game:
 ![loose game](https://user-images.githubusercontent.com/33045010/39387784-ae9ba916-4a49-11e8-912d-e3f04e0159f7.PNG)
 
 End Games:
-
+![end game](https://user-images.githubusercontent.com/33045010/39387815-cff645a8-4a49-11e8-8a7e-3645725afee6.PNG)
