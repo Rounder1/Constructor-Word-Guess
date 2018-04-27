@@ -27,11 +27,17 @@ module.exports = Word;
 
 /*
 var test = new Word ("red");
+//console.log(test.newWord[1].showLetter);
 
-console.log(test)
+for (i = 0; i < test.newWord.length; i++) {
+    console.log(test.newWord[i].showLetter);
+}
 
-test.userGuess("e");
+//console.log(test);
 
-console.log(test);
+//test.userGuess("e");
+
+//console.log(test);
 */
+
 
