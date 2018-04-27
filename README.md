@@ -10,3 +10,6 @@ Wrong Guess:
 ![wrong guess](https://user-images.githubusercontent.com/33045010/39387746-696c72e4-4a49-11e8-91cf-eafa7fa55f17.PNG)
 
 Win Game:
+![win game](https://user-images.githubusercontent.com/33045010/39387766-91a337a2-4a49-11e8-8323-20afbaf04c77.PNG)
+
+Loose Game:
